@@ -27,7 +27,7 @@ Create the feeling of being the artist of my masterpiece — me.
 - I can emphasize it
 - I can leave it as-is
 - I can simply understand it better
-- I can repaint the past without changing it (memory is interpretive)
+- I can repaint the past without changing it
 
 ## License
 This project is licensed under CC BY 4.0. You are free to share and adapt the material with attribution.
