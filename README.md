@@ -4,11 +4,14 @@ A simple reflection framework for noticing the outlines already in place that ar
 ## Purpose
 Create the feeling of being the artist of my masterpiece — me.
 
+Allow me to see my life honestly, at my own pace, without fixing it.
+
 ## Canvas Areas
 ### The Past
 - Most of the paint has dried
 - Some parts of the painting made things possible or kept me safe
 - Some parts were painful, harmful, or unsafe
+- Some parts were not chosen or not deserved
 - Aging and new experiences can repaint how I see the past
 
 ### The Future
@@ -16,7 +19,7 @@ Create the feeling of being the artist of my masterpiece — me.
   - Shapeless dark areas represent my fears
   - Penciled sketches are scattered throughout — some prominent, some nearly invisible
 
-- The brush is in my hands, however…
+- The brush is in my hands, although…
   - Some sketches were drawn by others
   - Some sketches were drawn by me
   - Sometimes it’s hard to tell the difference
@@ -27,7 +30,12 @@ Create the feeling of being the artist of my masterpiece — me.
 - I can emphasize it
 - I can leave it as-is
 - I can simply understand it better
-- I can repaint the past without changing it
+- I can repaint the past without changing what happened
+
+## Non-Goals
+- This is not a productivity or self-improvement system
+- This framework does not replace other forms of support
+- This does not require change, action, or resolution. It is simply a way of observing.
 
 ## License
 This project is licensed under CC BY 4.0. You are free to share and adapt the material with attribution.
